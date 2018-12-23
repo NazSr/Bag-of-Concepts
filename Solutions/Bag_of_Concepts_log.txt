@@ -1,0 +1,355 @@
+2018-07-23 21:42:08.620466 Log file opened.
+2018-07-23 21:42:08.620466 user_input function reach.
+2018-07-23 21:42:45.924132 user input collected.
+2018-07-23 21:42:45.924132 user_input function terminate.
+2018-07-23 21:42:45.924132 spell_check function reach.
+2018-07-23 21:42:57.312152 checking final keywords.
+2018-07-23 21:43:01.430559 proceed further.
+2018-07-23 21:43:01.446159 spell_check function terminate.
+2018-07-23 21:43:01.446159 collect_urls function reach.
+2018-07-23 21:43:01.633360 url opened successfully.
+2018-07-23 21:43:02.257361 links upadated in file - links.txt.
+2018-07-23 21:43:02.413361 url opened successfully.
+2018-07-23 21:43:02.943762 links upadated in file - links.txt.
+2018-07-23 21:43:03.115362 url opened successfully.
+2018-07-23 21:43:07.592570 links upadated in file - links.txt.
+2018-07-23 21:43:07.749570 url opened successfully.
+2018-07-23 21:43:11.602777 links upadated in file - links.txt.
+2018-07-23 21:43:11.711977 collect_urls function terminate.
+2018-07-23 21:43:11.711977 validate_urls function reach.
+2018-07-23 21:43:11.743178 check for invalid urls in file - links.txt.
+2018-07-23 21:43:11.758778 valid links updated in file - validlinks.txt.
+2018-07-23 21:43:11.805578 links.txt - file removed.
+2018-07-23 21:43:11.805578 validate_urls function terminate.
+2018-07-23 21:43:11.805578 fetch_text function reach.
+2018-07-23 21:43:11.821178 opens each url in file - validlinks.txt.
+2018-07-23 21:43:47.319441 failed to open url.
+2018-07-23 21:43:58.506661 failed to open url.
+2018-07-23 21:44:01.035865 failed to open url.
+2018-07-23 21:44:02.190267 failed to open url.
+2018-07-23 21:44:05.060672 formatting removed, text and titles collected in file - web_data.txt and titles.txt.
+2018-07-23 21:44:05.076273 fetch_text function terminate.
+2018-07-23 21:44:05.076273 clean_fetch_text function reach.
+2018-07-23 21:44:05.107473 fetched text in file - web_data.txt cleaned for newline.
+2018-07-23 21:44:05.123073 updated text in file - WebData.txt.
+2018-07-23 21:44:05.123073 web_data.txt - file removed.
+2018-07-23 21:44:05.123073 clean_fetch_text function terminate.
+2018-07-23 21:44:05.123073 tokenize_text function reach.
+2018-07-23 21:44:05.123073 text read from file - WebData.txt.
+2018-07-23 21:44:05.169873 sentence-wise, update in file - WebData.txt.
+2018-07-23 21:44:05.169873 tokenize_text function terminate.
+2018-07-23 21:44:05.169873 tokenize_words function reach.
+2018-07-23 21:44:05.169873 text read from file - WebData.txt.
+2018-07-23 21:44:05.294673 text tokenize, updated in file - WebData.txt.
+2018-07-23 21:44:05.357073 tokenize_words function terminate.
+2018-07-23 21:44:05.357073 frequency_list function reach.
+2018-07-23 21:44:05.357073 titles read from file - titles.txt.
+2018-07-23 21:44:05.372673 frequent words in file - titles.txt fetched.
+2018-07-23 21:44:05.388273 frequent words in file - WebData.txt fetched.
+2018-07-23 21:44:05.388273 frequency_list function terminate.
+2018-07-23 21:44:05.388273 concepts_classifier function reach.
+2018-07-23 21:44:09.912281 data classified into concepts.
+2018-07-23 21:44:09.912281 concepts_classifier fucntion terminate.
+2018-07-23 21:44:09.912281 Log file closed.
+2018-07-23 21:48:58.167389 Log file opened.
+2018-07-23 21:48:58.167389 user_input function reach.
+2018-07-23 21:49:35.426255 user input collected.
+2018-07-23 21:49:35.426255 user_input function terminate.
+2018-07-23 21:49:35.426255 spell_check function reach.
+2018-07-23 21:49:38.187460 error occured in spell_check.
+2018-07-23 21:49:50.653882 error occured in spell_check.
+2018-07-23 21:49:57.583294 checking final keywords.
+2018-07-23 21:50:00.235299 proceed further.
+2018-07-23 21:50:00.250899 spell_check function terminate.
+2018-07-23 21:50:00.250899 collect_urls function reach.
+2018-07-23 21:50:00.516099 url opened successfully.
+2018-07-23 21:50:04.353706 links upadated in file - links.txt.
+2018-07-23 21:50:04.540906 url opened successfully.
+2018-07-23 21:50:09.860515 links upadated in file - links.txt.
+2018-07-23 21:50:10.032116 url opened successfully.
+2018-07-23 21:50:13.791722 links upadated in file - links.txt.
+2018-07-23 21:50:13.838522 collect_urls function terminate.
+2018-07-23 21:50:13.838522 validate_urls function reach.
+2018-07-23 21:50:13.838522 check for invalid urls in file - links.txt.
+2018-07-23 21:50:13.854122 valid links updated in file - validlinks.txt.
+2018-07-23 21:50:13.869722 links.txt - file removed.
+2018-07-23 21:50:13.869722 validate_urls function terminate.
+2018-07-23 21:50:13.869722 fetch_text function reach.
+2018-07-23 21:50:13.869722 opens each url in file - validlinks.txt.
+2018-07-23 21:50:18.003730 failed to open url.
+2018-07-23 21:50:29.720350 failed to open url.
+2018-07-23 21:50:38.784966 formatting removed, text and titles collected in file - web_data.txt and titles.txt.
+2018-07-23 21:50:38.816166 fetch_text function terminate.
+2018-07-23 21:50:38.816166 clean_fetch_text function reach.
+2018-07-23 21:50:38.831766 fetched text in file - web_data.txt cleaned for newline.
+2018-07-23 21:50:38.847366 updated text in file - WebData.txt.
+2018-07-23 21:50:38.847366 web_data.txt - file removed.
+2018-07-23 21:50:38.847366 clean_fetch_text function terminate.
+2018-07-23 21:50:38.847366 tokenize_text function reach.
+2018-07-23 21:50:38.847366 text read from file - WebData.txt.
+2018-07-23 21:50:38.878567 sentence-wise, update in file - WebData.txt.
+2018-07-23 21:50:38.878567 tokenize_text function terminate.
+2018-07-23 21:50:38.878567 tokenize_words function reach.
+2018-07-23 21:50:38.878567 text read from file - WebData.txt.
+2018-07-23 21:50:38.972167 text tokenize, updated in file - WebData.txt.
+2018-07-23 21:50:38.987767 tokenize_words function terminate.
+2018-07-23 21:50:38.987767 frequency_list function reach.
+2018-07-23 21:50:38.987767 titles read from file - titles.txt.
+2018-07-23 21:50:38.987767 frequent words in file - titles.txt fetched.
+2018-07-23 21:50:39.034567 frequent words in file - WebData.txt fetched.
+2018-07-23 21:50:39.034567 frequency_list function terminate.
+2018-07-23 21:50:39.034567 concepts_classifier function reach.
+2018-07-23 21:50:41.765572 data classified into concepts.
+2018-07-23 21:50:41.765572 concepts_classifier fucntion terminate.
+2018-07-23 21:50:41.765572 Log file closed.
+2018-07-23 21:56:33.767793 Log file opened.
+2018-07-23 21:56:33.767793 user_input function reach.
+2018-07-23 21:57:02.071243 user input collected.
+2018-07-23 21:57:02.071243 user_input function terminate.
+2018-07-23 21:57:02.071243 spell_check function reach.
+2018-07-23 21:57:07.346052 checking final keywords.
+2018-07-23 21:57:14.602065 proceed further.
+2018-07-23 21:57:14.617665 spell_check function terminate.
+2018-07-23 21:57:14.617665 collect_urls function reach.
+2018-07-23 21:57:14.851665 url opened successfully.
+2018-07-23 21:57:18.829672 links upadated in file - links.txt.
+2018-07-23 21:57:18.985673 url opened successfully.
+2018-07-23 21:57:19.735474 links upadated in file - links.txt.
+2018-07-23 21:57:20.094275 url opened successfully.
+2018-07-23 21:57:20.718276 links upadated in file - links.txt.
+2018-07-23 21:57:20.843076 collect_urls function terminate.
+2018-07-23 21:57:20.843076 validate_urls function reach.
+2018-07-23 21:57:20.843076 check for invalid urls in file - links.txt.
+2018-07-23 21:57:20.858676 valid links updated in file - validlinks.txt.
+2018-07-23 21:57:20.874276 links.txt - file removed.
+2018-07-23 21:57:20.874276 validate_urls function terminate.
+2018-07-23 21:57:20.874276 fetch_text function reach.
+2018-07-23 21:57:20.889876 opens each url in file - validlinks.txt.
+2018-07-23 21:57:36.084303 failed to open url.
+2018-07-23 21:58:09.436562 failed to open url.
+2018-07-23 21:58:10.809364 formatting removed, text and titles collected in file - web_data.txt and titles.txt.
+2018-07-23 21:58:10.840565 fetch_text function terminate.
+2018-07-23 21:58:10.840565 clean_fetch_text function reach.
+2018-07-23 21:58:10.902965 fetched text in file - web_data.txt cleaned for newline.
+2018-07-23 21:58:10.918565 updated text in file - WebData.txt.
+2018-07-23 21:58:10.918565 web_data.txt - file removed.
+2018-07-23 21:58:10.918565 clean_fetch_text function terminate.
+2018-07-23 21:58:10.918565 tokenize_text function reach.
+2018-07-23 21:58:10.918565 text read from file - WebData.txt.
+2018-07-23 21:58:10.949765 sentence-wise, update in file - WebData.txt.
+2018-07-23 21:58:10.949765 tokenize_text function terminate.
+2018-07-23 21:58:10.949765 tokenize_words function reach.
+2018-07-23 21:58:10.949765 text read from file - WebData.txt.
+2018-07-23 21:58:11.027765 text tokenize, updated in file - WebData.txt.
+2018-07-23 21:58:11.043365 tokenize_words function terminate.
+2018-07-23 21:58:11.043365 frequency_list function reach.
+2018-07-23 21:58:11.043365 titles read from file - titles.txt.
+2018-07-23 21:58:11.043365 frequent words in file - titles.txt fetched.
+2018-07-23 21:58:11.074565 frequent words in file - WebData.txt fetched.
+2018-07-23 21:58:11.074565 frequency_list function terminate.
+2018-07-23 21:58:11.074565 concepts_classifier function reach.
+2018-07-23 21:58:13.601769 data classified into concepts.
+2018-07-23 21:58:13.601769 concepts_classifier fucntion terminate.
+2018-07-23 21:58:13.601769 Log file closed.
+2018-07-23 22:01:20.620510 Log file opened.
+2018-07-23 22:01:20.620510 user_input function reach.
+2018-07-23 22:01:42.444349 user input collected.
+2018-07-23 22:01:42.444349 user_input function terminate.
+2018-07-23 22:01:42.444349 spell_check function reach.
+2018-07-23 22:01:49.464362 checking final keywords.
+2018-07-23 22:01:52.303567 proceed further.
+2018-07-23 22:01:52.319167 spell_check function terminate.
+2018-07-23 22:01:52.319167 collect_urls function reach.
+2018-07-23 22:01:52.506367 url opened successfully.
+2018-07-23 22:01:56.203574 links upadated in file - links.txt.
+2018-07-23 22:01:56.359574 url opened successfully.
+2018-07-23 22:01:56.952375 links upadated in file - links.txt.
+2018-07-23 22:01:57.108375 url opened successfully.
+2018-07-23 22:02:00.961582 links upadated in file - links.txt.
+2018-07-23 22:02:00.977182 collect_urls function terminate.
+2018-07-23 22:02:00.977182 validate_urls function reach.
+2018-07-23 22:02:00.977182 check for invalid urls in file - links.txt.
+2018-07-23 22:02:00.977182 valid links updated in file - validlinks.txt.
+2018-07-23 22:02:00.992782 links.txt - file removed.
+2018-07-23 22:02:00.992782 validate_urls function terminate.
+2018-07-23 22:02:00.992782 fetch_text function reach.
+2018-07-23 22:02:00.992782 opens each url in file - validlinks.txt.
+2018-07-23 22:02:10.352798 failed to collect text.
+2018-07-23 22:02:11.804601 failed to open url.
+2018-07-23 22:02:38.558648 failed to open url.
+2018-07-23 22:02:46.093461 formatting removed, text and titles collected in file - web_data.txt and titles.txt.
+2018-07-23 22:02:46.109061 fetch_text function terminate.
+2018-07-23 22:02:46.109061 clean_fetch_text function reach.
+2018-07-23 22:02:46.124661 fetched text in file - web_data.txt cleaned for newline.
+2018-07-23 22:02:46.140261 updated text in file - WebData.txt.
+2018-07-23 22:02:46.140261 web_data.txt - file removed.
+2018-07-23 22:02:46.140261 clean_fetch_text function terminate.
+2018-07-23 22:02:46.140261 tokenize_text function reach.
+2018-07-23 22:02:46.140261 text read from file - WebData.txt.
+2018-07-23 22:02:46.155861 sentence-wise, update in file - WebData.txt.
+2018-07-23 22:02:46.155861 tokenize_text function terminate.
+2018-07-23 22:02:46.155861 tokenize_words function reach.
+2018-07-23 22:02:46.155861 text read from file - WebData.txt.
+2018-07-23 22:02:46.202662 text tokenize, updated in file - WebData.txt.
+2018-07-23 22:02:46.249462 tokenize_words function terminate.
+2018-07-23 22:02:46.249462 frequency_list function reach.
+2018-07-23 22:02:46.249462 titles read from file - titles.txt.
+2018-07-23 22:02:46.249462 frequent words in file - titles.txt fetched.
+2018-07-23 22:02:46.280662 frequent words in file - WebData.txt fetched.
+2018-07-23 22:02:46.280662 frequency_list function terminate.
+2018-07-23 22:02:46.280662 concepts_classifier function reach.
+2018-07-23 22:02:47.591064 data classified into concepts.
+2018-07-23 22:02:47.591064 concepts_classifier fucntion terminate.
+2018-07-23 22:02:47.591064 Log file closed.
+2018-07-23 22:18:22.672141 Log file opened.
+2018-07-23 22:18:22.672141 user_input function reach.
+2018-07-23 22:18:57.086801 user input collected.
+2018-07-23 22:18:57.086801 user_input function terminate.
+2018-07-23 22:18:57.086801 spell_check function reach.
+2018-07-23 22:19:02.318811 checking final keywords.
+2018-07-23 22:19:04.487215 proceed further.
+2018-07-23 22:19:04.502815 spell_check function terminate.
+2018-07-23 22:19:04.502815 collect_urls function reach.
+2018-07-23 22:19:04.721215 url opened successfully.
+2018-07-23 22:19:09.510423 links upadated in file - links.txt.
+2018-07-23 22:19:09.682024 url opened successfully.
+2018-07-23 22:19:15.407234 links upadated in file - links.txt.
+2018-07-23 22:19:16.608436 url opened successfully.
+2018-07-23 22:19:22.333646 links upadated in file - links.txt.
+2018-07-23 22:19:22.349246 collect_urls function terminate.
+2018-07-23 22:19:22.364846 validate_urls function reach.
+2018-07-23 22:19:22.364846 check for invalid urls in file - links.txt.
+2018-07-23 22:19:22.380446 valid links updated in file - validlinks.txt.
+2018-07-23 22:19:22.442846 links.txt - file removed.
+2018-07-23 22:19:22.442846 validate_urls function terminate.
+2018-07-23 22:19:22.442846 fetch_text function reach.
+2018-07-23 22:19:22.442846 opens each url in file - validlinks.txt.
+2018-07-23 22:19:46.983689 failed to open url.
+2018-07-23 22:19:47.217690 failed to open url.
+2018-07-23 22:20:18.113744 failed to open url.
+2018-07-23 22:20:18.363345 failed to open url.
+2018-07-23 22:20:19.252546 failed to open url.
+2018-07-23 22:20:21.920151 formatting removed, text and titles collected in file - web_data.txt and titles.txt.
+2018-07-23 22:20:21.951351 fetch_text function terminate.
+2018-07-23 22:20:21.951351 clean_fetch_text function reach.
+2018-07-23 22:20:21.951351 fetched text in file - web_data.txt cleaned for newline.
+2018-07-23 22:20:21.966951 updated text in file - WebData.txt.
+2018-07-23 22:20:21.966951 web_data.txt - file removed.
+2018-07-23 22:20:21.966951 clean_fetch_text function terminate.
+2018-07-23 22:20:21.966951 tokenize_text function reach.
+2018-07-23 22:20:21.966951 text read from file - WebData.txt.
+2018-07-23 22:20:21.998151 sentence-wise, update in file - WebData.txt.
+2018-07-23 22:20:21.998151 tokenize_text function terminate.
+2018-07-23 22:20:21.998151 tokenize_words function reach.
+2018-07-23 22:20:21.998151 text read from file - WebData.txt.
+2018-07-23 22:20:22.060551 text tokenize, updated in file - WebData.txt.
+2018-07-23 22:20:22.076151 tokenize_words function terminate.
+2018-07-23 22:20:22.076151 frequency_list function reach.
+2018-07-23 22:20:22.076151 titles read from file - titles.txt.
+2018-07-23 22:20:22.076151 frequent words in file - titles.txt fetched.
+2018-07-23 22:20:22.091751 frequent words in file - WebData.txt fetched.
+2018-07-23 22:20:22.091751 frequency_list function terminate.
+2018-07-23 22:20:22.091751 concepts_classifier function reach.
+2018-07-23 22:20:23.823354 data classified into concepts.
+2018-07-23 22:20:23.823354 concepts_classifier fucntion terminate.
+2018-07-23 22:20:23.823354 Log file closed.
+2018-07-23 22:26:07.188363 Log file opened.
+2018-07-23 22:26:07.188363 user_input function reach.
+2018-07-23 22:26:33.274609 user input collected.
+2018-07-23 22:26:33.274609 user_input function terminate.
+2018-07-23 22:26:33.274609 spell_check function reach.
+2018-07-23 22:26:37.146416 error occured in spell_check.
+2018-07-23 22:26:51.186441 checking final keywords.
+2018-07-23 22:27:09.868674 proceed further.
+2018-07-23 22:27:09.884274 spell_check function terminate.
+2018-07-23 22:27:09.884274 collect_urls function reach.
+2018-07-23 22:27:10.791076 url opened successfully.
+2018-07-23 22:27:17.001887 links upadated in file - links.txt.
+2018-07-23 22:27:17.875488 url opened successfully.
+2018-07-23 22:27:19.934692 links upadated in file - links.txt.
+2018-07-23 22:27:20.810294 url opened successfully.
+2018-07-23 22:27:22.729097 links upadated in file - links.txt.
+2018-07-23 22:27:22.760297 collect_urls function terminate.
+2018-07-23 22:27:22.760297 validate_urls function reach.
+2018-07-23 22:27:22.760297 check for invalid urls in file - links.txt.
+2018-07-23 22:27:22.775897 valid links updated in file - validlinks.txt.
+2018-07-23 22:27:22.791497 links.txt - file removed.
+2018-07-23 22:27:22.791497 validate_urls function terminate.
+2018-07-23 22:27:22.791497 fetch_text function reach.
+2018-07-23 22:27:22.791497 opens each url in file - validlinks.txt.
+2018-07-23 22:27:31.574312 failed to collect text.
+2018-07-23 22:27:53.715752 failed to open url.
+2018-07-23 22:27:59.472162 failed to open url.
+2018-07-23 22:28:06.524775 formatting removed, text and titles collected in file - web_data.txt and titles.txt.
+2018-07-23 22:28:06.587175 fetch_text function terminate.
+2018-07-23 22:28:06.587175 clean_fetch_text function reach.
+2018-07-23 22:28:06.602775 fetched text in file - web_data.txt cleaned for newline.
+2018-07-23 22:28:06.618375 updated text in file - WebData.txt.
+2018-07-23 22:28:06.618375 web_data.txt - file removed.
+2018-07-23 22:28:06.618375 clean_fetch_text function terminate.
+2018-07-23 22:28:06.618375 tokenize_text function reach.
+2018-07-23 22:28:06.618375 text read from file - WebData.txt.
+2018-07-23 22:28:06.649575 sentence-wise, update in file - WebData.txt.
+2018-07-23 22:28:06.649575 tokenize_text function terminate.
+2018-07-23 22:28:06.649575 tokenize_words function reach.
+2018-07-23 22:28:06.649575 text read from file - WebData.txt.
+2018-07-23 22:28:06.711975 text tokenize, updated in file - WebData.txt.
+2018-07-23 22:28:06.727575 tokenize_words function terminate.
+2018-07-23 22:28:06.727575 frequency_list function reach.
+2018-07-23 22:28:06.727575 titles read from file - titles.txt.
+2018-07-23 22:28:06.727575 frequent words in file - titles.txt fetched.
+2018-07-23 22:28:06.727575 frequent words in file - WebData.txt fetched.
+2018-07-23 22:28:06.727575 frequency_list function terminate.
+2018-07-23 22:28:06.727575 concepts_classifier function reach.
+2018-07-23 22:28:07.398377 data classified into concepts.
+2018-07-23 22:28:07.398377 concepts_classifier fucntion terminate.
+2018-07-23 22:28:07.398377 Log file closed.
+2018-07-23 23:36:02.453842 Log file opened.
+2018-07-23 23:36:02.453842 user_input function reach.
+2018-07-23 23:36:52.880541 user input collected.
+2018-07-23 23:36:52.880541 user_input function terminate.
+2018-07-23 23:36:52.880541 spell_check function reach.
+2018-07-23 23:36:57.531349 checking final keywords.
+2018-07-23 23:37:00.419354 proceed further.
+2018-07-23 23:37:00.434954 spell_check function terminate.
+2018-07-23 23:37:00.434954 collect_urls function reach.
+2018-07-23 23:37:00.622155 url opened successfully.
+2018-07-23 23:37:04.832964 links upadated in file - links.txt.
+2018-07-23 23:37:04.988964 url opened successfully.
+2018-07-23 23:37:05.550565 links upadated in file - links.txt.
+2018-07-23 23:37:05.706565 url opened successfully.
+2018-07-23 23:37:06.379366 links upadated in file - links.txt.
+2018-07-23 23:37:06.394966 collect_urls function terminate.
+2018-07-23 23:37:06.394966 validate_urls function reach.
+2018-07-23 23:37:06.394966 check for invalid urls in file - links.txt.
+2018-07-23 23:37:06.410567 valid links updated in file - validlinks.txt.
+2018-07-23 23:37:06.426167 links.txt - file removed.
+2018-07-23 23:37:06.426167 validate_urls function terminate.
+2018-07-23 23:37:06.426167 fetch_text function reach.
+2018-07-23 23:37:06.426167 opens each url in file - validlinks.txt.
+2018-07-23 23:37:07.331968 failed to open url.
+2018-07-23 23:37:39.613227 failed to open url.
+2018-07-23 23:37:55.781257 formatting removed, text and titles collected in file - web_data.txt and titles.txt.
+2018-07-23 23:37:55.812457 fetch_text function terminate.
+2018-07-23 23:37:55.812457 clean_fetch_text function reach.
+2018-07-23 23:37:55.812457 fetched text in file - web_data.txt cleaned for newline.
+2018-07-23 23:37:55.828057 updated text in file - WebData.txt.
+2018-07-23 23:37:55.828057 web_data.txt - file removed.
+2018-07-23 23:37:55.828057 clean_fetch_text function terminate.
+2018-07-23 23:37:55.828057 tokenize_text function reach.
+2018-07-23 23:37:55.828057 text read from file - WebData.txt.
+2018-07-23 23:37:55.859257 sentence-wise, update in file - WebData.txt.
+2018-07-23 23:37:55.859257 tokenize_text function terminate.
+2018-07-23 23:37:55.859257 tokenize_words function reach.
+2018-07-23 23:37:55.859257 text read from file - WebData.txt.
+2018-07-23 23:37:55.937257 text tokenize, updated in file - WebData.txt.
+2018-07-23 23:37:55.952857 tokenize_words function terminate.
+2018-07-23 23:37:55.952857 frequency_list function reach.
+2018-07-23 23:37:55.952857 titles read from file - titles.txt.
+2018-07-23 23:37:55.952857 frequent words in file - titles.txt fetched.
+2018-07-23 23:37:55.952857 frequent words in file - WebData.txt fetched.
+2018-07-23 23:37:55.952857 frequency_list function terminate.
+2018-07-23 23:37:55.952857 concepts_classifier function reach.
+2018-07-23 23:37:56.358458 data classified into concepts.
+2018-07-23 23:37:56.358458 concepts_classifier fucntion terminate.
+2018-07-23 23:37:56.358458 Log file closed.
